@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm a Mechanical Engineering student. 
+I mainly code in MatLab, but I would like to learn more.
+I like hiking and motorcycling. 😄
 
 <!--
 **BroesZ/BroesZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
